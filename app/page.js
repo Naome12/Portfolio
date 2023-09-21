@@ -83,7 +83,7 @@ export default function Home() {
     </div>
     <div className="w-[459px] h-80 left-[1010px] top-[421px] absolute">
       <div className="w-[441px] h-[319px] left-[18px] top-[1px] absolute bg-black" />
-      <div className="w-[371px] h-[117px] left-[65px] top-[140px] absolute text-white text-xl font-light font-['Inter']">Lorem ipsum dolor, sit amet consectetur adipisicing elit.uukefdsnfiuobncn uiewfhuiv if ueuifnbusujfu vhuj dhsbudf ufshhnv     </div>
+      <p className="w-[371px] h-[117px] left-[65px] top-[140px] absolute text-white text-xl font-light font-['Inter']">Lorem ipsum dolor, sit amet consectetur adipisicing elit.uukefdsnfiuobncn uiewfhuiv if ueuifnbusujfu vhuj dhsbudf ufshhnv     </p>
       <div className="left-[98px] top-[68px] absolute text-white text-[21px] font-semibold font-['Inter']">Frontend  Web development</div>
       <div className="w-80 h-[0px] left-[18px] top-0 absolute origin-top-left rotate-90 border-4 border-teal-500"></div>
       <div className="w-[72px] h-[63px] left-0 top-[30px] absolute">
